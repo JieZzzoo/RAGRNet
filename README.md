@@ -13,7 +13,7 @@ We provide saliency maps of our RAGRNet in [BaiDuYunlink](https://pan.baidu.com/
 You can use the evaluation tool [(MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
 
 # New 🚩
-We provide saliency maps in [BaiDuYunlink](https://pan.baidu.com/s/1oPEx9PNamHkxRKDNyGsV8w)(code:RAGR) for UGSet Daraset.
+We provide saliency maps in [BaiDuYunlink](https://pan.baidu.com/s/1oPEx9PNamHkxRKDNyGsV8w)(code:RAGR) for UGSet Dataset.
 
 #
 If you encounter any problems with the code, want to report bugs, etc.
