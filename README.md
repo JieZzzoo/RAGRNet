@@ -4,7 +4,7 @@ This repository is about the work of Recurrent Adaptive Graph Reasoning Network 
 🏃 The code is on the way...... 🏃
 
 # Datasets
-The datasets utilized in this work can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1iP7KRFwkS6K4Hako1XQIgg)(code:2r9f), including ORSSD, EORSSD, ORSI-4199 and RSISOD.
+The datasets utilized in this work can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1iP7KRFwkS6K4Hako1XQIgg) (code:2r9f), including ORSSD, EORSSD, ORSI-4199 and RSISOD.
 
 # Saliency maps
 We provide saliency maps of our RAGRNet in [BaiDuYunlink](https://pan.baidu.com/s/1h5NbhWTGpn3lcWYbSjONCA) (code:RAGR) on ORSSD, EORSSD and ORSI-4199.
