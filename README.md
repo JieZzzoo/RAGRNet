@@ -1,5 +1,5 @@
 # RAGRNet
-This repository is about the work of Recurrent Adaptive Graph Reasoning Network with Region and Boundary Interaction for Salient Object Detection in Optical Remote Sensing Images. 
+This project provides the code and results for 'Recurrent Adaptive Graph Reasoning Network with Region and Boundary Interaction for Salient Object Detection in Optical Remote Sensing Images', IEEE TGRS, 2024 ([IEEE Link](https://ieeexplore.ieee.org/abstract/document/10580988)).
 
 🏃 The code is on the way...... 🏃
 
