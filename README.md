@@ -5,10 +5,10 @@ This project provides the code and results for 'Recurrent Adaptive Graph Reasoni
 ![RAGRNet.png](images%2FRAGRNet.png)
 
 # Datasets
-The datasets utilized in this work can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1iP7KRFwkS6K4Hako1XQIgg) (code:2r9f), including ORSSD, EORSSD, ORSI-4199 and RSISOD.
+The datasets utilized in this work can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1iP7KRFwkS6K4Hako1XQIgg) (code:2r9f), including ORSSD, EORSSD, and ORSI-4199.
 
 # Salmaps
-The salmaps can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1RfqKLIB0R5ltQBTlR02Deg) (code:RAGR), including ORSSD, EORSSD, ORSI-4199 and RSISOD.
+The salmaps can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1RfqKLIB0R5ltQBTlR02Deg) (code:RAGR), including ORSSD, EORSSD, and ORSI-4199.
 
 # Evaluation Tool
 You can use the evaluation tool [(MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
