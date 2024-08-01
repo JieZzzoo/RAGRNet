@@ -13,7 +13,7 @@ The salmaps can be accessed from [BaiDuYunlink](https://pan.baidu.com/s/1RfqKLIB
 # Evaluation Tool
 You can use the evaluation tool [(MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
 
-![Table I.png](images%2FTable I.png)
+![Table.png](images%2FTable.png)
 
 # New 🚩
 We provide saliency maps in [BaiDuYunlink](https://pan.baidu.com/s/1oPEx9PNamHkxRKDNyGsV8w)(code:RAGR) for UGSet Dataset.
