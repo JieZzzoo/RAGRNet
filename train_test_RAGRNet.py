@@ -139,7 +139,7 @@ def run(train_i):
                 imageio.imsave(res_save_path + name, img_as_ubyte(res))
 
             print('FPS {:.5f}'.format(test_loader.size / time_sum))
-            torch.save(model.state_dict(), save_path + 'SEI_ORSSD.pth' + '.%d' % epoch)
+            torch.save(model.state_dict(), save_path + 'RAGR_ORSSD.pth' + '.%d' % epoch)
             adp_fm = adaptive_fms / test_loader.size
             mae_mean = mae / test_loader.size
             if mae_mean < best_mae:
@@ -184,4 +184,5 @@ for train_i in range(0, 1):
     print('Learning Rate: {}'.format(opt.lr))
 
     run(train_i)
+
 
